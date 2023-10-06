@@ -1,0 +1,62 @@
+* createing react app 
+
+    npx create-react-app appname 
+
+
+* Run React Application 
+
+    npm start 
+
+
+* Components
+
+    * JSX Component
+
+            It Is Used Create Normal Html Element To React Element 
+
+    * Functional Component
+
+            It Is Simillar To The JSX Component
+
+    * Class Component
+
+            To Import The {Component} and Extends Component  
+
+
+
+* Props 
+
+    * Props Used In Functional Component
+    * Props used In Class Component
+
+
+* Map Method 
+
+    * Map Method Used In Functional Component
+    * Map Method Used In Class Component
+
+* Diffrent Ways To Create Functional Component
+
+
+* Child Props 
+
+
+* Fragments 
+
+
+* Event Handling 
+
+
+* UseState Hook Function 
+
+
+* Conditional Rendering 
+
+
+* UseEffect Hook Function 
+
+
+* How To Make API Call 
+
+
+* Routeing 
